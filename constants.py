@@ -1,0 +1,3 @@
+# Constants
+NUM_CLASSES = 10
+MAX_PIXEL_VALUE = 255
