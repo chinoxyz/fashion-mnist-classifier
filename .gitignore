@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#project specific
+data
+env
+checkpoints
+.idea
